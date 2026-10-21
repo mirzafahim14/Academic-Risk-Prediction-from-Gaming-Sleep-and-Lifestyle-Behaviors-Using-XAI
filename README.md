@@ -1,0 +1,2 @@
+# Academic-Risk-Prediction-from-Gaming-Sleep-and-Lifestyle-Behaviors-Using-XAI
+This study conducts a secondary analysis of the public Zenodo dataset Student Gaming and Academic in Bangladesh (MIT License). The original 2023 survey included 1,061 students from nine Bangladeshi universities, with 989 records released after filtering. Original ethical approval, informed consent, and privacy procedures.
